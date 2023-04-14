@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../lab8"
+		},
+		{
+			"path": "../lab9"
+		},
+		{
+			"path": "../mall"
+		},
+		{
+			"path": "../WT5 - Kursuppgift"
+		},
+		{
+			"path": "../1me325_f03"
+		},
+		{
+			"path": "../1me325_f04"
+		},
+		{
+			"path": "../examin"
+		},
+		{
+			"path": "../lab1-3 --Slumpa tal & skriv ut med createElement, setInterval, navigator.refresh"
+		},
+		{
+			"path": "../lab4 --Händelsehantering--   ('mousemove', (e) ={ left=e.pageX; }); ('click', (e) ={ element.width++...});"
+		},
+		{
+			"path": "../lab5 --Dynamiska klasser--     +document.addEventListener('click', (e) = { Kalle= new User(); });"
+		},
+		{
+			"path": "../lab6 --Statiska klasser--           var Mouse = {Mouse.x=e.clientX;}"
+		},
+		{
+			"path": "../lab7 --Semi-statisk klass--       window.onload = function() {randomColor;}"
+		}
+	]
+}
